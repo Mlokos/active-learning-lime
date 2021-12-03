@@ -1,0 +1,13 @@
+lime
+jupyter
+cifar10
+emnist
+tensorflow
+tf-slim
+preprocessing
+scikit-image
+pandas
+torch
+torchvision
+jupyterlab
+opencv-python
