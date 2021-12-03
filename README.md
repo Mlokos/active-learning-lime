@@ -6,5 +6,5 @@ https://python-poetry.org/docs/#installation
 ```bash
 cd active-learning-lime
 poetry install
-poetry run jupyter-notebook lime-tutorial.ipynb
+poetry run jupyter-notebook LAB03.ipynb
 ```
